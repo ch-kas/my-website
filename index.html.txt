@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Free Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
+
+    <section>
+        <p>This is a simple website made with HTML and CSS — and it cost $0 to publish.</p>
+    </section>
+</body>
+</html>
